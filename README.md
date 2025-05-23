@@ -10,7 +10,7 @@
 - **软件开发**：C/C++、Python、JavaScript
 - **硬件设计**：原理图 & PCB 制作（KiCad / jlcEDA）
 - **Web 技术**：HTML/CSS、Node.js
-- **工具与平台**：Git、FreeRTOS、VSCode、PlatformIO、Linux
+- **工具与平台**：Git、FreeRTOS、VSCode、PlatformIO、Linux、Docker
 
 ---
 
