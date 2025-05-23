@@ -9,14 +9,14 @@
 - **主控平台**：ESP32、STM32、Arduino
 - **软件开发**：C/C++、Python、JavaScript
 - **硬件设计**：原理图 & PCB 制作（KiCad / jlcEDA）
-- **Web 技术**：HTML/CSS、Node.js、Express、React
+- **Web 技术**：HTML/CSS、Node.js
 - **工具与平台**：Git、FreeRTOS、VSCode、PlatformIO、Linux
 
 ---
 
 ## 📌 项目精选
 
-- 🚗 **ESP32 蓝牙遥控小车**：通过 Xbox 手柄控制的小车，支持线性油门和精准转向。
+- 🚗 **ESP32 蓝牙遥控小车**：通过 Xbox 手柄控制的小车，支持线性油门和精准转向。（筹备中）
 - 🧭 **姿态识别飞控系统**：基于 ESP32 + ICM-20602/MPU6050 + LoRa + NEO-M8N 的四轴飞控项目。
 - 🧩 **LED 点阵屏动画系统**：支持文本滚动、图案显示和动态特效，适用于 Arduino/ESP32。
 
